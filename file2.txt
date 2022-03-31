@@ -1,3 +1,5 @@
 this is the second file on the main branch
 
 Hey there this is a new line in feature 1 branch
+
+some more lines added while the work was in stash
